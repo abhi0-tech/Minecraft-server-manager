@@ -1,6 +1,8 @@
 # Minecraft-server-manager
 A custom built server manager for minecraft server to host on your own!
 
+THIS APP IS WORK IN PROGRESS WILL BE RELEASED SOON!
+
 # SCREENSHOTS 
 
 Dasboard
@@ -14,4 +16,4 @@ Hardware Allocation page
 <img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/939d0552-22bb-4c4d-86da-b8ae30611fdb" />
 
 
-THIS APP IS WORK IN PROGRESS WILL BE RELEASED SOON!
+
