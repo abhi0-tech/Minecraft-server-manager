@@ -1,7 +1,7 @@
 # Minecraft-server-manager
 A custom built server manager for minecraft server to host on your own!
 
-#SCREENSHOTS 
+# SCREENSHOTS 
 
 Dasboard
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/ca217627-62eb-456e-b9dc-5b84b45d77bd" />
