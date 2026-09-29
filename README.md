@@ -5,7 +5,7 @@ THIS APP IS WORK IN PROGRESS WILL BE RELEASED SOON!
 
 # SCREENSHOTS 
 
-Dasboard
+Dashboard
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/ca217627-62eb-456e-b9dc-5b84b45d77bd" />
 
 Mod Loader installer page
